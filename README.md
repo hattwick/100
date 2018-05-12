@@ -2,6 +2,8 @@
 
 [![Visit the course page](readme_resources/100days-course.png)](https://training.talkpython.fm/courses/explore_100days_in_python/100-days-of-code-in-python)
 
+Starting at Pycon 2018 - May 10, 2018
+
 Course details page: [**talkpython.fm/100days**](https://talkpython.fm/100days?utm_source=github)
 
 ## 100 Days of Code workspace
